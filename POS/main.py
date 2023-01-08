@@ -10,7 +10,16 @@ reasons
 
 '''
 #POS means POINT-OF-SALE
-#This software
+
+
+'''
+I'm actually building this software to practice  4 major concepts
+1. Decorators
+2. Enumerate
+3. Lambdas
+
+'''
+
 
 
 class POS:
